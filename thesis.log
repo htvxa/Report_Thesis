@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.8)  9 JAN 2021 11:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.6)  9 JAN 2021 14:42
 entering extended mode
 **./thesis.tex
 (thesis.tex
-LaTeX2e <2020-10-01> patch level 2
+LaTeX2e <2020-10-01> patch level 3
 L3 programming layer <2020-12-07> xparse <2020-03-03>
-("C:\Program Files\MiKTeX\tex/latex/base\book.cls"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
-("C:\Program Files\MiKTeX\tex/latex/base\bk12.clo"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
 File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 \c@part=\count177
@@ -22,21 +22,21 @@ File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-("C:\Program Files\MiKTeX\tex/latex/vntex\vietnam.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/vntex\vietnam.sty
 Package: vietnam 2009/07/12 v1.3 support for Vietnamese
 
-("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 
-("C:\Program Files\MiKTeX\tex/latex/vntex\t5enc.def"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5enc.def
 File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
 Now handling font encoding T5 ...
 ... processing UTF-8 mapping file for font encoding T5
 
-("C:\Program Files\MiKTeX\tex/latex/vntex\t5enc.dfu"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5enc.dfu
 File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
    defining Unicode char U+00AB (decimal 171)
    defining Unicode char U+00BB (decimal 187)
@@ -193,18 +193,18 @@ File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
 LaTeX Font Info:    Trying to load font information for T5+cmr on input line 11
 2.
 
-("C:\Program Files\MiKTeX\tex/latex/vntex\t5cmr.fd"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmr.fd
 File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 ))
-("C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
-)
-("C:\Program Files\MiKTeX\tex/latex/vntex\vncaps.tex"
+) (C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/vntex\vncaps.tex
 File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
 ))
-("C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.
+sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box47
 \beforetitleunit=\skip49
@@ -216,17 +216,18 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidthlast=\dimen142
 \titlewidthfirst=\dimen143
 )
-("C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
+sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.st
+y
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 )
-("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count186
@@ -242,25 +243,29 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutvoffset=\dimen151
 \Gm@dimlist=\toks19
 
-("C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg"))
-("C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.
+cfg))
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.st
+y
 Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty"
+
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.st
+y
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
 \ex@=\dimen152
 ))
-("C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen153
 )
-("C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count189
@@ -301,77 +306,95 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.
+sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.
+sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graph
+ics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdfte
+x.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen161
 \Gin@req@width=\dimen162
 )
-("C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.
+sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.
+sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdfte
+xcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwar
+err.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetk
+eys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-("C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvd
+efinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-("C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfesc
+ape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-("C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.st
+y
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltx
+macro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-("C:\Program Files\MiKTeX\tex/latex/auxhook\auxhook.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.st
+y
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-("C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoption
+s.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen163
 \Hy@linkcounter=\count267
 \Hy@pagecounter=\count268
 
-("C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.de
+f
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-("C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.
+sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-("C:\Program Files\MiKTeX\tex/generic/etexcmds\etexcmds.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmd
+s.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count269
@@ -383,18 +406,19 @@ Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
 \c@Hy@tempcnt=\count270
-
-("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
+ (C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen164
 
-("C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.st
+y
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-("C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigin
+tcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -411,7 +435,8 @@ Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
 
-("C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.
+sty
 Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
@@ -422,10 +447,12 @@ with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.d
+ef
 File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
 
-("C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx
+.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
@@ -433,10 +460,12 @@ with kernel methods
 \Fld@listcount=\count275
 \c@bookmark@seq@number=\count276
 
-("C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rer
+unfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-("C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\un
+iquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -444,17 +473,20 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip54
 )
-("C:\Program Files\MiKTeX\tex/latex/parskip\parskip.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.st
+y
 Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
 
-("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.
+sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count277
 ))
-("C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-("C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.
+sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -462,13 +494,16 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.s
+ty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-("C:\Program Files\MiKTeX\tex/latex/caption\caption.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.st
+y
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
-("C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.s
+ty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \captionmargin=\dimen167
 \captionmargin@=\dimen168
@@ -483,9 +518,10 @@ Package caption Info: Standard document class detected.
 \c@continuedfloat=\count279
 Package caption Info: hyperref package is loaded.
 )
-("C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty"
-Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
-
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.
+sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
 \f@nch@headwidth=\skip55
 \f@nch@O@elh=\skip56
 \f@nch@O@erh=\skip57
@@ -496,34 +532,47 @@ Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
 \f@nch@O@olf=\skip62
 \f@nch@O@orf=\skip63
 )
-("C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty"
-("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty"
-("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty"
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\
+tikz.sty
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf
+.sty
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfr
+cs.sty
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+futil-common.tex
 \pgfutil@everybye=\toks25
 \pgfutil@tempdima=\dimen174
 \pgfutil@tempdimb=\dimen175
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex"))
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+futil-common-lists.tex))
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+futil-latex.def
 \pgfutil@abb=\box50
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex"
-("C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex")
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+frcs.code.tex
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision
+.tex)
 Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
 ))
 Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
 
-("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty"
-("C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty"
-("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf
+core.sty
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pg
+fsys.sty
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgfsys.code.tex
 Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+fkeys.code.tex
 \pgfkeys@pathtoks=\toks26
 \pgfkeys@temptoks=\toks27
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+fkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks28
 ))
 \pgf@x=\dimen176
@@ -546,28 +595,36 @@ Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
 \t@pgf@tokb=\toks30
 \t@pgf@tokc=\toks31
 \pgf@sys@id@count=\count284
-("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg"
+
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgf.cfg
 File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
-))) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.t
-ex"
+)))
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgfsyssoftpath@smallbuffer@items=\count285
 \pgfsyssoftpath@bigbuffer@items=\count286
-) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
-"
+)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\
+pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)) ("C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty"
+))
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color
+.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -581,13 +638,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcore.code.tex
 Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex"
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex"
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex")
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+.code.tex
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+calc.code.tex
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+util.code.tex)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+parser.code.tex
 \pgfmath@dimen=\dimen186
 \pgfmath@count=\count287
 \pgfmath@box=\box51
@@ -595,26 +657,32 @@ Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
 \pgfmath@stack@operand=\toks33
 \pgfmath@stack@operation=\toks34
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex"
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex"
-)
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.c
-ode.tex")
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex
-")
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code
-.tex")
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex")
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex"
-) ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex
-")
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmet
-ics.code.tex")))
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.code.tex
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.basic.code.tex)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.trigonometric.code.tex)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.random.code.tex)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.comparison.code.tex)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.base.code.tex)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.round.code.tex)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.misc.code.tex)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+functions.integerarithmetics.code.tex)))
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+float.code.tex
 \c@pgfmathroundto@lastzeros=\count288
 ))
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex")
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.
+code.tex)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgf@picminx=\dimen187
 \pgf@picmaxx=\dimen188
@@ -631,106 +699,133 @@ File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgf@zx=\dimen199
 \pgf@zy=\dimen256
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.
-tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgf@path@lastx=\dimen257
 \pgf@path@lasty=\dimen258
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgf@shorten@end@additional=\dimen259
 \pgf@shorten@start@additional=\dimen260
-) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex"
+)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgfpic=\box52
 \pgf@hbox=\box53
 \pgf@layerbox@main=\box54
 \pgf@picture@serial@count=\count289
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.t
-ex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgflinewidth=\dimen261
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.cod
-e.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgf@pt@x=\dimen262
 \pgf@pt@y=\dimen263
 \pgf@pt@temp=\dimen264
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorequick.code.tex
 File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code
-.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgfarrowsep=\dimen265
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgf@max=\dimen266
 \pgf@sys@shading@range@num=\count290
 \pgf@shadingcount=\count291
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgfexternal@startupbox=\box55
-)) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex"
+))
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.t
-ex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex"
+)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\p
+gfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )))
-("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfm
+oduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgfnodeparttextbox=\box56
 )
-("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfm
+oduleplot.code.tex
 File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )
-("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\
+pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
 \pgf@nodesepstart=\dimen267
 \pgf@nodesepend=\dimen268
-) ("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.st
-y"
+)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\
+pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
-)) ("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty"
-("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty"
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex"))
-("C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty"
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex"))
-("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex"
+))
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgff
+or.sty
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfk
+eys.sty
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+fkeys.code.tex))
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.s
+ty
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+.code.tex))
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pg
+ffor.code.tex
 Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex")
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath
+.code.tex)
 \pgffor@iter=\dimen269
 \pgffor@skip=\dimen270
 \pgffor@stack=\toks35
 \pgffor@toks=\toks36
 ))
-("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlaye
+r/tikz\tikz.code.tex
 Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code
-.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pg
+flibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgf@plot@mark@count=\count292
 \pgfplotmarksize=\dimen271
@@ -752,7 +847,8 @@ File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \tikznumberofcurrentchild=\count295
 \tikz@fig@count=\count296
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfm
+odulematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgfmatrixcurrentrow=\count297
 \pgfmatrixcurrentcolumn=\count298
@@ -760,10 +856,11 @@ File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )
 \tikz@expandcount=\count300
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
-arytopaths.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-))) ("C:\Program Files\MiKTeX\tex/latex/float\float.sty"
+)))
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count301
 \float@exts=\toks37
@@ -771,7 +868,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks38
 \@floatcapt=\box62
 )
-("C:\Program Files\MiKTeX\tex/latex/listings\listings.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.
+sty
 \lst@mode=\count302
 \lst@gtempboxa=\box63
 \lst@token=\toks39
@@ -785,23 +883,27 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \lst@lineno=\count307
 \lst@maxwidth=\dimen283
 
-("C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.s
+ty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count308
 \lst@skipnumbers=\count309
 \lst@framebox=\box64
 )
-("C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.
+cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
-("C:\Program Files\MiKTeX\tex/latex/acro\acro.sty"
-("C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty"
-("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/acro\acro.sty
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2
+e\l3keys2e.sty
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2020-12-07 L3 programming layer (loader) 
 
-("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
+d-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count310
 \l__pdf_internal_box=\box65
@@ -1130,10 +1232,11 @@ Loading module `templates' ...
 Loading module `list' ...
 Loading module `pages' ...
 
-("C:\Program Files\MiKTeX\tex/latex/zref\zref-abspage.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.
+sty
 Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
 
-("C:\Program Files\MiKTeX\tex/latex/zref\zref-base.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
 Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
 Package zref Info: New property list: main on input line 764.
 Package zref Info: New property: default on input line 765.
@@ -1142,24 +1245,29 @@ Package zref Info: New property: page on input line 766.
 \c@abspage=\count320
 Package zref Info: New property: abspage on input line 66.
 )
-("C:\Program Files\MiKTeX\tex/latex/zref\zref-totpages.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-totpages
+.sty
 Package: zref-totpages 2020-07-03 v2.32 Module totpages for zref (HO)
 
-("C:\Program Files\MiKTeX\tex/latex/zref\zref-lastpage.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-lastpage
+.sty
 Package: zref-lastpage 2020-07-03 v2.32 Module lastpage for zref (HO)
 Package zref Info: New property list: LastPage on input line 59.
 ))
 \l__acro_pages_seq_threshold_int=\count321
 Loading module `locale' ...
 
-("C:\Program Files\MiKTeX\tex/latex/translations\translations.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/translations\trans
+lations.sty
 Package: translations 2020/11/08 v1.9 internationalization of LaTeX2e packages 
 (CN)
 
-("C:\Program Files\MiKTeX\tex/latex/koma-script\scrlfile.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfi
+le.sty
 Package: scrlfile 2020/09/21 v3.32 KOMA-Script package (file load hooks)
 
-("C:\Program Files\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfi
+le-hook.sty
 Package: scrlfile-hook 2020/09/21 v3.32 KOMA-Script package (using LaTeX hooks)
 
 
@@ -1241,7 +1349,8 @@ LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
 (LaTeX3)     line 298.
 
 
-("C:\Program Files\MiKTeX\tex/latex/koma-script\scrlogo.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlog
+o.sty
 Package: scrlogo 2020/09/21 v3.32 KOMA-Script package (logo)
 ))))
 Loading module `pdfsupport' ...
@@ -1444,12 +1553,13 @@ LaTeX3 Info: Defining command \nospace with sig. '' on line 4982.
 
 Loading module `upgrade' ...
 )
-("C:\Program Files\MiKTeX\tex/latex/cite\cite.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-("C:\Program Files\MiKTeX\tex/latex/multirow\multirow.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.
+sty
 Package: multirow 2021/01/02 v2.6 Span multiple rows of a table
 \multirow@colwidth=\skip64
 \multirow@cntb=\count322
@@ -1459,19 +1569,20 @@ Package: multirow 2021/01/02 v2.6 Span multiple rows of a table
 Package hyperref Info: Option `colorlinks' set `true' on input line 75.
 \c@exam=\count323
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
-aryshapes.geometric.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibraryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geo
-metric.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/sh
+apes\pgflibraryshapes.geometric.code.tex
 File: pgflibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 ))
-("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
-aryarrows.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibraryarrows.code.tex
 File: tikzlibraryarrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 
-("C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pg
+flibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \arrowsize=\dimen285
 ))
@@ -1557,7 +1668,9 @@ LaTeX Font Info:    ... okay on input line 232.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
+df.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count338
 \scratchdimen=\dimen286
@@ -1570,20 +1683,25 @@ LaTeX Font Info:    ... okay on input line 232.
 \MPnumerator=\count342
 \makeMPintoPDFobject=\count343
 \everyMPtoPDFconversion=\toks41
-) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+)
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
 Package hyperref Info: Link coloring ON on input line 232.
 
-("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.s
+ty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.
+sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-("C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\g
+ettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count344
@@ -1591,8 +1709,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 232.
 LaTeX Info: Redefining \pageref on input line 232.
 LaTeX Info: Redefining \nameref on input line 232.
-
-(thesis.out) (thesis.out)
+ (thesis.out) (thesis.out)
 \@outlinefile=\write4
 \openout4 = `thesis.out'.
 
@@ -1605,8 +1722,8 @@ Package caption Info: End \AtBeginDocument code.
 \openout5 = `thesis.acr'.
 
 
-("C:\Program Files\MiKTeX\tex/latex/translations/dicts\translations-basic-dicti
-onary-english.trsl"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts
+\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
@@ -1640,13 +1757,13 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13.99994> not available
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 234
 .
-("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 234
 .
 
-("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <./figure//hcmut_logo.jpg, id=134, 207.77625pt x 208.78pt>
@@ -1668,8 +1785,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (22.76219pt too high) has occurred while \output is active []
 
 
-[2{C:/Users/Hoang Thanh/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./figur
-e//hcmut_logo.jpg>]
+[2{C:/Users/HoangThanh/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./figure
+//hcmut_logo.jpg>]
 Overfull \hbox (2.61049pt too wide) in paragraph at lines 236--236
 []$[]$ $[]$ 
  []
@@ -1825,12 +1942,10 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 
 ) (text/chuong2.tex
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.93912pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
@@ -1860,7 +1975,7 @@ Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\ecircumflex' on input line 1.
 
-<./figure//linecoding.jpg, id=355, 640.3925pt x 480.79625pt>
+<./figure//linecoding.jpg, id=352, 640.3925pt x 480.79625pt>
 File: ./figure//linecoding.jpg Graphic file (type jpg)
 <use ./figure//linecoding.jpg>
 Package pdftex.def Info: ./figure//linecoding.jpg  used on input line 18.
@@ -1873,121 +1988,76 @@ l.31 \end{itemize}
                    [3
 
  <./figure//linecoding.jpg>]
-<./figure//Unipolarnrz.jpg, id=363, 326.21875pt x 142.5325pt>
+<./figure//Unipolarnrz.jpg, id=360, 326.21875pt x 142.5325pt>
 File: ./figure//Unipolarnrz.jpg Graphic file (type jpg)
 <use ./figure//Unipolarnrz.jpg>
 Package pdftex.def Info: ./figure//Unipolarnrz.jpg  used on input line 73.
 (pdftex.def)             Requested size: 295.90588pt x 129.29805pt.
-<./figure//pcsunrz.png, id=364, 258.9675pt x 201.00093pt>
+<./figure//pcsunrz.png, id=361, 258.9675pt x 201.00093pt>
 File: ./figure//pcsunrz.png Graphic file (type png)
 <use ./figure//pcsunrz.png>
 Package pdftex.def Info: ./figure//pcsunrz.png  used on input line 86.
 (pdftex.def)             Requested size: 227.62206pt x 176.67892pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.109 
        [4]
-<./figure//polarnrz.png, id=371, 214.55156pt x 204.01219pt>
+<./figure//polarnrz.png, id=367, 214.55156pt x 204.01219pt>
 File: ./figure//polarnrz.png Graphic file (type png)
 <use ./figure//polarnrz.png>
 Package pdftex.def Info: ./figure//polarnrz.png  used on input line 116.
 (pdftex.def)             Requested size: 227.62206pt x 216.44177pt.
-<./figure//phopnrz.png, id=373, 138.5175pt x 92.59593pt>
+<./figure//phopnrz.png, id=369, 138.5175pt x 92.59593pt>
 File: ./figure//phopnrz.png Graphic file (type png)
 <use ./figure//phopnrz.png>
 Package pdftex.def Info: ./figure//phopnrz.png  used on input line 136.
 (pdftex.def)             Requested size: 227.62206pt x 152.16064pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[5 <./figure//Unipolarnrz.jpg> <./figure//pcsunrz.png>]
-<./figure//bipolar.png, id=380, 305.64188pt x 85.06781pt>
+ [5 <./figure//Unipolarnrz.jpg> <./figure//pcsunrz.png>]
+<./figure//bipolar.png, id=376, 305.64188pt x 85.06781pt>
 File: ./figure//bipolar.png Graphic file (type png)
 <use ./figure//bipolar.png>
 Package pdftex.def Info: ./figure//bipolar.png  used on input line 168.
 (pdftex.def)             Requested size: 341.43307pt x 95.03386pt.
-<./figure//phobipolar.png, id=381, 181.42781pt x 118.94438pt>
+<./figure//phobipolar.png, id=377, 181.42781pt x 118.94438pt>
 File: ./figure//phobipolar.png Graphic file (type png)
 <use ./figure//phobipolar.png>
 Package pdftex.def Info: ./figure//phobipolar.png  used on input line 182.
 (pdftex.def)             Requested size: 227.62206pt x 149.23364pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[6 <./figure//polarnrz.png> <./figure//phopnrz.png>]
-<./figure//Uprz.png, id=390, 234.1247pt x 73.02281pt>
+ [6 <./figure//polarnrz.png> <./figure//phopnrz.png>]
+<./figure//Uprz.png, id=386, 234.1247pt x 73.02281pt>
 File: ./figure//Uprz.png Graphic file (type png)
 <use ./figure//Uprz.png>
 Package pdftex.def Info: ./figure//Uprz.png  used on input line 219.
 (pdftex.def)             Requested size: 341.43307pt x 106.50542pt.
-<./figure//phoUprz.png, id=391, 207.02344pt x 59.47218pt>
+<./figure//phoUprz.png, id=387, 207.02344pt x 59.47218pt>
 File: ./figure//phoUprz.png Graphic file (type png)
 <use ./figure//phoUprz.png>
 Package pdftex.def Info: ./figure//phoUprz.png  used on input line 234.
 (pdftex.def)             Requested size: 227.62206pt x 65.39146pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[7 <./figure//bipolar.png> <./figure//phobipolar.png> <./figure//Uprz.png>]
-<./figure//Plrz.png, id=401, 191.9672pt x 56.46094pt>
+ [7 <./figure//bipolar.png> <./figure//phobipolar.png> <./figure//Uprz.png>]
+<./figure//Plrz.png, id=397, 191.9672pt x 56.46094pt>
 File: ./figure//Plrz.png Graphic file (type png)
 <use ./figure//Plrz.png>
 Package pdftex.def Info: ./figure//Plrz.png  used on input line 263.
 (pdftex.def)             Requested size: 341.43307pt x 100.43637pt.
-<./figure//phoPlrz.png, id=402, 195.73125pt x 152.06813pt>
+<./figure//phoPlrz.png, id=398, 195.73125pt x 152.06813pt>
 File: ./figure//phoPlrz.png Graphic file (type png)
 <use ./figure//phoPlrz.png>
 Package pdftex.def Info: ./figure//phoPlrz.png  used on input line 278.
 (pdftex.def)             Requested size: 227.62206pt x 176.85393pt.
-<./figure//biPlrz.png, id=403, 222.8325pt x 59.47218pt>
+<./figure//biPlrz.png, id=399, 222.8325pt x 59.47218pt>
 File: ./figure//biPlrz.png Graphic file (type png)
 <use ./figure//biPlrz.png>
 Package pdftex.def Info: ./figure//biPlrz.png  used on input line 307.
 (pdftex.def)             Requested size: 341.43307pt x 91.13278pt.
-<./figure//phobiPlrz.png, id=404, 209.28188pt x 75.28125pt>
+<./figure//phobiPlrz.png, id=400, 209.28188pt x 75.28125pt>
 File: ./figure//phobiPlrz.png Graphic file (type png)
 <use ./figure//phobiPlrz.png>
 Package pdftex.def Info: ./figure//phobiPlrz.png  used on input line 322.
 (pdftex.def)             Requested size: 341.43307pt x 122.8176pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[8 <./figure//phoUprz.png> <./figure//Plrz.png> <./figure//phoPlrz.png>]
+ [8 <./figure//phoUprz.png> <./figure//Plrz.png> <./figure//phoPlrz.png>]
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
@@ -2023,22 +2093,14 @@ Package hyperref Warning: Composite letter `\textasciigrave+\ecircumflex'
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\ecircumflex' on input line 340.
 
-<./figure//luuluongthietbi.png, id=414, 279.29344pt x 210.7875pt>
+<./figure//luuluongthietbi.png, id=410, 279.29344pt x 210.7875pt>
 File: ./figure//luuluongthietbi.png Graphic file (type png)
 <use ./figure//luuluongthietbi.png>
 Package pdftex.def Info: ./figure//luuluongthietbi.png  used on input line 347.
 
 (pdftex.def)             Requested size: 227.62206pt x 171.79512pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
 [9 <./figure//biPlrz.png> <./figure//phobiPlrz.png>]
-<./figure//vunganhsangkhakien.png, id=422, 1027.84pt x 550.055pt>
+<./figure//vunganhsangkhakien.png, id=418, 1027.84pt x 550.055pt>
 File: ./figure//vunganhsangkhakien.png Graphic file (type png)
 <use ./figure//vunganhsangkhakien.png>
 Package pdftex.def Info: ./figure//vunganhsangkhakien.png  used on input line 3
@@ -2047,17 +2109,8 @@ Package pdftex.def Info: ./figure//vunganhsangkhakien.png  used on input line 3
 
 Underfull \vbox (badness 1286) has occurred while \output is active []
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[10 <./figure//luuluongthietbi.png> <./figure//vunganhsangkhakien.png>]
-<./figure//futurevlc.png, id=430, 302.63063pt x 197.23688pt>
+ [10 <./figure//luuluongthietbi.png> <./figure//vunganhsangkhakien.png>]
+<./figure//futurevlc.png, id=426, 302.63063pt x 197.23688pt>
 File: ./figure//futurevlc.png Graphic file (type png)
 <use ./figure//futurevlc.png>
 Package pdftex.def Info: ./figure//futurevlc.png  used on input line 386.
@@ -2077,70 +2130,36 @@ Package hyperref Warning: Composite letter `\textasciigrave+\ecircumflex'
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\ecircumflex' on input line 397.
 
-<./figure//channel.png, id=431, 438.8897pt x 164.11313pt>
+<./figure//channel.png, id=427, 438.8897pt x 164.11313pt>
 File: ./figure//channel.png Graphic file (type png)
 <use ./figure//channel.png>
 Package pdftex.def Info: ./figure//channel.png  used on input line 406.
 (pdftex.def)             Requested size: 341.43307pt x 127.67465pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
 [11 <./figure//futurevlc.png> <./figure//channel.png>]
-<./figure//shadowing.png, id=442, 250.68657pt x 93.34875pt>
+<./figure//shadowing.png, id=438, 250.68657pt x 93.34875pt>
 File: ./figure//shadowing.png Graphic file (type png)
 <use ./figure//shadowing.png>
 Package pdftex.def Info: ./figure//shadowing.png  used on input line 463.
 (pdftex.def)             Requested size: 341.43307pt x 127.15486pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[12]
-<./figure//multipath.png, id=460, 192.72pt x 109.91063pt>
+ [12]
+<./figure//multipath.png, id=456, 192.72pt x 109.91063pt>
 File: ./figure//multipath.png Graphic file (type png)
 <use ./figure//multipath.png>
 Package pdftex.def Info: ./figure//multipath.png  used on input line 490.
 (pdftex.def)             Requested size: 341.43307pt x 194.72289pt.
-<./figure//tong.png, id=462, 277.78781pt x 136.25906pt>
+<./figure//tong.png, id=458, 277.78781pt x 136.25906pt>
 File: ./figure//tong.png Graphic file (type png)
 <use ./figure//tong.png>
 Package pdftex.def Info: ./figure//tong.png  used on input line 505.
 (pdftex.def)             Requested size: 341.43307pt x 167.4812pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[13 <./figure//shadowing.png> <./figure//multipath.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[14 <./figure//tong.png>]
-<./figure//hethongvlc.png, id=483, 473.51906pt x 258.21469pt>
+ [13 <./figure//shadowing.png> <./figure//multipath.png>] [14 <./figure//tong.p
+ng>]
+<./figure//hethongvlc.png, id=479, 473.51906pt x 258.21469pt>
 File: ./figure//hethongvlc.png Graphic file (type png)
 <use ./figure//hethongvlc.png>
 Package pdftex.def Info: ./figure//hethongvlc.png  used on input line 575.
 (pdftex.def)             Requested size: 341.43307pt x 186.19023pt.
-<./figure//loslos.png, id=487, 265.74281pt x 164.86594pt>
+<./figure//loslos.png, id=483, 265.74281pt x 164.86594pt>
 File: ./figure//loslos.png Graphic file (type png)
 <use ./figure//loslos.png>
 Package pdftex.def Info: ./figure//loslos.png  used on input line 605.
@@ -2149,25 +2168,8 @@ Package pdftex.def Info: ./figure//loslos.png  used on input line 605.
 
 LaTeX Warning: Citation `2x2' on page 15 undefined on input line 630.
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[15 <./figure//hethongvlc.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[16 <./figure//loslos.png>]
-<./figure//mimoxanh.png, id=507, 545.78906pt x 171.64125pt>
+[15 <./figure//hethongvlc.png>] [16 <./figure//loslos.png>]
+<./figure//mimoxanh.png, id=503, 545.78906pt x 171.64125pt>
 File: ./figure//mimoxanh.png Graphic file (type png)
 <use ./figure//mimoxanh.png>
 Package pdftex.def Info: ./figure//mimoxanh.png  used on input line 652.
@@ -2192,7 +2194,7 @@ Package hyperref Warning: Composite letter `\textdotbelow+o'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textdotbelow' on input line 666.
 
-<./figure//mangnoron.png, id=508, 398.23781pt x 209.28188pt>
+<./figure//mangnoron.png, id=504, 398.23781pt x 209.28188pt>
 File: ./figure//mangnoron.png Graphic file (type png)
 <use ./figure//mangnoron.png>
 Package pdftex.def Info: ./figure//mangnoron.png  used on input line 673.
@@ -2216,103 +2218,41 @@ Package hyperref Warning: Composite letter `\textdotbelow+a'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textdotbelow' on input line 685.
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
 [17 <./figure//mimoxanh.png> <./figure//mangnoron.png>]
-<./figure//perceptron.png, id=516, 217.5628pt x 109.91063pt>
+<./figure//perceptron.png, id=512, 217.5628pt x 109.91063pt>
 File: ./figure//perceptron.png Graphic file (type png)
 <use ./figure//perceptron.png>
 Package pdftex.def Info: ./figure//perceptron.png  used on input line 703.
 (pdftex.def)             Requested size: 227.62206pt x 115.00032pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[18 <./figure//perceptron.png>]
-<./figure//ANN.png, id=523, 208.52907pt x 181.42781pt>
+ [18 <./figure//perceptron.png>]
+<./figure//ANN.png, id=519, 208.52907pt x 181.42781pt>
 File: ./figure//ANN.png Graphic file (type png)
 <use ./figure//ANN.png>
 Package pdftex.def Info: ./figure//ANN.png  used on input line 722.
 (pdftex.def)             Requested size: 227.62206pt x 198.05138pt.
-<./figure//PNN.png, id=525, 416.30531pt x 237.13594pt>
+<./figure//PNN.png, id=521, 416.30531pt x 237.13594pt>
 File: ./figure//PNN.png Graphic file (type png)
 <use ./figure//PNN.png>
 Package pdftex.def Info: ./figure//PNN.png  used on input line 737.
 (pdftex.def)             Requested size: 341.43307pt x 194.49614pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[19 <./figure//ANN.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[20 <./figure//PNN.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[21]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[22]
-<./figure//transbit.png, id=563, 917.67844pt x 71.51718pt>
+ [19 <./figure//ANN.png>] [20 <./figure//PNN.png>] [21] [22]
+<./figure//transbit.png, id=559, 917.67844pt x 71.51718pt>
 File: ./figure//transbit.png Graphic file (type png)
 <use ./figure//transbit.png>
 Package pdftex.def Info: ./figure//transbit.png  used on input line 920.
 (pdftex.def)             Requested size: 455.24411pt x 35.47913pt.
-<./figure//signalbits.png, id=564, 845.40843pt x 429.85594pt>
+<./figure//signalbits.png, id=560, 845.40843pt x 429.85594pt>
 File: ./figure//signalbits.png Graphic file (type png)
 <use ./figure//signalbits.png>
 Package pdftex.def Info: ./figure//signalbits.png  used on input line 931.
 (pdftex.def)             Requested size: 341.43307pt x 173.59877pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[23 <./figure//transbit.png> <./figure//signalbits.png>]
-<./figure//SRbits.png, id=575, 834.11626pt x 426.84468pt>
+ [23 <./figure//transbit.png> <./figure//signalbits.png>]
+<./figure//SRbits.png, id=571, 834.11626pt x 426.84468pt>
 File: ./figure//SRbits.png Graphic file (type png)
 <use ./figure//SRbits.png>
 Package pdftex.def Info: ./figure//SRbits.png  used on input line 944.
 (pdftex.def)             Requested size: 341.43307pt x 174.72087pt.
-<./figure//Rbits.png, id=576, 918.43124pt x 100.12407pt>
+<./figure//Rbits.png, id=572, 918.43124pt x 100.12407pt>
 File: ./figure//Rbits.png Graphic file (type png)
 <use ./figure//Rbits.png>
 Package pdftex.def Info: ./figure//Rbits.png  used on input line 956.
@@ -2344,16 +2284,7 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\ohorn' on input line 964.
 
-) (text/chuong3.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[24 <./figure//SRbits.png> <./figure//Rbits.png>]
+) (text/chuong3.tex [24 <./figure//SRbits.png> <./figure//Rbits.png>]
 Ch\uhorn \ohorn ng 3.
 
 Package hyperref Warning: Composite letter `\textacute+\ECIRCUMFLEX'
@@ -2421,7 +2352,7 @@ Package hyperref Warning: Composite letter `\textacute+\ocircumflex'
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\ocircumflex' on input line 3.
 
-<./figure//ThuPhat.png, id=583, 718.685pt x 313.17pt>
+<./figure//ThuPhat.png, id=579, 718.685pt x 313.17pt>
 File: ./figure//ThuPhat.png Graphic file (type png)
 <use ./figure//ThuPhat.png>
 Package pdftex.def Info: ./figure//ThuPhat.png  used on input line 8.
@@ -2448,11 +2379,11 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\ecircumflex' on input line 47.
 
 Package epstopdf Info: Source file: <./figure//ocsiloscope.eps>
-(epstopdf)                    date: 2021-01-09 09:46:17
+(epstopdf)                    date: 2021-01-08 18:46:16
 (epstopdf)                    size: 79988 bytes
 (epstopdf)             Output file: <./figure//ocsiloscope-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2021-01-09 09:46:28
+(epstopdf)                    date: 2021-01-08 18:46:28
 (epstopdf)                    size: 27553 bytes
 (epstopdf)             Command: <epstopdf --outfile=./figure//ocsiloscope-eps-c
 onverted-to.pdf ./figure//ocsiloscope.eps>
@@ -2462,27 +2393,25 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./figure//ocsiloscope-eps-converted-to.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./figure//ocsiloscope-eps-converted-to.pdf, id=591, 421.575pt x 316.18124pt>
+<./figure//ocsiloscope-eps-converted-to.pdf, id=587, 421.575pt x 316.18124pt>
 File: ./figure//ocsiloscope-eps-converted-to.pdf Graphic file (type pdf)
 <use ./figure//ocsiloscope-eps-converted-to.pdf>
 Package pdftex.def Info: ./figure//ocsiloscope-eps-converted-to.pdf  used on in
 put line 69.
 (pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.97171pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.97171pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+Package Fancyhdr Warning: \headheight is too small (14.93912pt): 
+Make it at least 17.97171pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
 
 [26 <./figure//ocsiloscope-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./figure//transandreceive.eps>
-(epstopdf)                    date: 2021-01-08 17:17:56
+(epstopdf)                    date: 2021-01-08 02:17:56
 (epstopdf)                    size: 40687 bytes
 (epstopdf)             Output file: <./figure//transandreceive-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2021-01-09 09:09:27
+(epstopdf)                    date: 2021-01-08 18:09:26
 (epstopdf)                    size: 16691 bytes
 (epstopdf)             Command: <epstopdf --outfile=./figure//transandreceive-e
 ps-converted-to.pdf ./figure//transandreceive.eps>
@@ -2492,7 +2421,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./figure//transandreceive-eps-converted-to.p
 df): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./figure//transandreceive-eps-converted-to.pdf, id=608, 421.575pt x 316.18124p
+<./figure//transandreceive-eps-converted-to.pdf, id=604, 421.575pt x 316.18124p
 t>
 File: ./figure//transandreceive-eps-converted-to.pdf Graphic file (type pdf)
 <use ./figure//transandreceive-eps-converted-to.pdf>
@@ -2532,10 +2461,10 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\acircumflex' on input line 84.
 
 Package epstopdf Info: Source file: <./figure//eye.eps>
-(epstopdf)                    date: 2021-01-09 10:05:03
+(epstopdf)                    date: 2021-01-08 19:05:02
 (epstopdf)                    size: 45342 bytes
 (epstopdf)             Output file: <./figure//eye-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-09 10:31:25
+(epstopdf)                    date: 2021-01-08 19:31:24
 (epstopdf)                    size: 14509 bytes
 (epstopdf)             Command: <epstopdf --outfile=./figure//eye-eps-converted
 -to.pdf ./figure//eye.eps>
@@ -2545,29 +2474,38 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex.exe (file ./figure//eye-eps-converted-to.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./figure//eye-eps-converted-to.pdf, id=610, 646.415pt x 355.3275pt>
+<./figure//eye-eps-converted-to.pdf, id=606, 646.415pt x 355.3275pt>
 File: ./figure//eye-eps-converted-to.pdf Graphic file (type pdf)
 <use ./figure//eye-eps-converted-to.pdf>
 Package pdftex.def Info: ./figure//eye-eps-converted-to.pdf  used on input line
  91.
 (pdftex.def)             Requested size: 452.48741pt x 248.72754pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.97171pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.97171pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
-
 [27 <./figure//transandreceive-eps-converted-to.pdf>]
 
 Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 101.
+(hyperref)                removing `\textacute' on input line 100.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 101.
+(hyperref)                removing `\ecircumflex' on input line 100.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\h' on input line 100.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\h' on input line 101.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+\uhorn'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 101.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\uhorn' on input line 101.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
@@ -2575,110 +2513,109 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 102.
-
-
-Package hyperref Warning: Composite letter `\textdotbelow+\uhorn'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 102.
+(hyperref)                removing `\uhorn' on input line 101.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 102.
+(hyperref)                removing `\h' on input line 101.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 102.
+(hyperref)                removing `\ohorn' on input line 101.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 102.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 102.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 102.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 102.
+(hyperref)                removing `\h' on input line 101.
 
 
 Package hyperref Warning: Composite letter `\textacute+\ocircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 102.
+(hyperref)                removing `\textacute' on input line 101.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 102.
+(hyperref)                removing `\ocircumflex' on input line 101.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 102.
+(hyperref)                removing `\dj' on input line 101.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ocircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 102.
+(hyperref)                removing `\textdotbelow' on input line 101.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 102.
+(hyperref)                removing `\ocircumflex' on input line 101.
 
 Package epstopdf Info: Source file: <./figure//BER.eps>
-(epstopdf)                    date: 2021-01-09 11:43:10
+(epstopdf)                    date: 2021-01-08 20:43:10
 (epstopdf)                    size: 43792 bytes
 (epstopdf)             Output file: <./figure//BER-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-09 11:58:19
+(epstopdf)                    date: 2021-01-08 20:58:18
 (epstopdf)                    size: 14705 bytes
 (epstopdf)             Command: <epstopdf --outfile=./figure//BER-eps-converted
 -to.pdf ./figure//BER.eps>
-(epstopdf)             \includegraphics on input line 113.
+(epstopdf)             \includegraphics on input line 112.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex.exe (file ./figure//BER-eps-converted-to.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./figure//BER-eps-converted-to.pdf, id=623, 421.575pt x 316.18124pt>
+<./figure//BER-eps-converted-to.pdf, id=619, 421.575pt x 316.18124pt>
 File: ./figure//BER-eps-converted-to.pdf Graphic file (type pdf)
 <use ./figure//BER-eps-converted-to.pdf>
 Package pdftex.def Info: ./figure//BER-eps-converted-to.pdf  used on input line
- 113.
+ 112.
 (pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [28 <./figure//eye-eps-converted-to.pdf>]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\h' on input line 119.
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.97171pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.97171pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+Package hyperref Warning: Composite letter `\textdotbelow+\uhorn'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 119.
 
-(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
 
-[28 <./figure//eye-eps-converted-to.pdf>]) (text/chuong4.tex
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\uhorn' on input line 119.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.97171pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.97171pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\h' on input line 119.
 
-[29 <./figure//BER-eps-converted-to.pdf>]
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 17.97171pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.97171pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\uhorn' on input line 119.
 
-(fancyhdr)                \addtolength{\topmargin}{-5.97171pt}.
 
-[30
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\h' on input line 119.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ohorn' on input line 119.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\h' on input line 119.
+
+
+Package hyperref Warning: Composite letter `\textacute+\ocircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 119.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ocircumflex' on input line 119.
+
+) (text/chuong4.tex [29 <./figure//BER-eps-converted-to.pdf>] [30
 
 ]
 Ch\uhorn \ohorn ng 4.
@@ -2748,21 +2685,13 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\ecircumflex' on input line 8.
 
-) [31]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[32
+) [31] [32
 
 ]
 LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 3
 37.
- ("C:\Program Files\MiKTeX\tex/latex/vntex\t5cmtt.fd"
+
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 Overfull \hbox (19.86899pt too wide) in paragraph at lines 336--338
@@ -2776,16 +2705,7 @@ Underfull \hbox (badness 1062) in paragraph at lines 345--348
 LC sû döng NOMA-
  []
 
-(text/phuluc.tex [33]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[34
+(text/phuluc.tex [33] [34
 
 ]
 Ph\d {u} l\d {u}c A.
@@ -2811,37 +2731,20 @@ Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\ecircumflex' on input line 4.
 
-("C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty"
+
+(C:\Users\HoangThanh\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.
+sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 6.
-
-(code/creating_PAM_NRZ.m [35]
+ (code/creating_PAM_NRZ.m [35]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[36]
+ [36]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[37])
+ [37])
 
 Package hyperref Warning: Composite letter `\textacute+\acircumflex'
 (hyperref)                not defined in PD1 encoding,
@@ -2869,16 +2772,7 @@ Package hyperref Warning: Composite letter `\textasciigrave+\uhorn'
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\uhorn' on input line 8.
 
-(code/Signal_oscilloscope.m
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[38])
+(code/Signal_oscilloscope.m [38])
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
@@ -2897,16 +2791,7 @@ Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\ecircumflex' on input line 12.
 
-(code/Receiving_2.m
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[39])
+(code/Receiving_2.m [39])
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\uhorn' on input line 16.
@@ -2933,28 +2818,7 @@ Package hyperref Warning: Composite letter `\textdotbelow+\ohorn'
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\ohorn' on input line 16.
 
-(code/snrtruyenthong.m) (code/pnn.m
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[40]))
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[41] (thesis.aux (thesis.acr))
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: EA5BA1F0FE9BD7F7C4E900C900E1C529;2213.
-
+(code/snrtruyenthong.m) (code/pnn.m [40])) [41] (thesis.aux (thesis.acr))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
@@ -2962,39 +2826,46 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were undefined references.
 
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: EA5BA1F0FE9BD7F7C4E900C900E1C529;2213
+(rerunfilecheck)             After:  6F63AC0E6DBD633D86A49C90062B0F4F;2301.
  ) 
 Here is how much of TeX's memory you used:
- 29354 strings out of 479697
- 595217 string characters out of 2876990
- 1455099 words of memory out of 3000000
- 45417 multiletter control sequences out of 15000+200000
+ 29408 strings out of 479624
+ 605315 string characters out of 2862773
+ 1454898 words of memory out of 3000000
+ 45543 multiletter control sequences out of 15000+200000
  433765 words of font info for 101 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,19n,98p,1350b,2549s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Hoang Thanh\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi600\
-vntt10.pk> <C:\Users\Hoang Thanh\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr
-/dpi600\vntt12.pk> <C:\Users\Hoang Thanh\AppData\Local\MiKTeX\fonts/pk/ljfour/v
-ntex/vnr/dpi600\vnti12.pk> <C:\Users\Hoang Thanh\AppData\Local\MiKTeX\fonts/pk/
-ljfour/vntex/vnr/dpi657\vnr10.pk> <C:\Users\Hoang Thanh\AppData\Local\MiKTeX\fo
-nts/pk/ljfour/vntex/vnr/dpi720\vnbx12.pk> <C:\Users\Hoang Thanh\AppData\Local\M
-iKTeX\fonts/pk/ljfour/vntex/vnr/dpi864\vnbx12.pk> <C:\Users\Hoang Thanh\AppData
-\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Hoang T
-hanh\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi600\vnbx12.pk> <C:\Users
-\Hoang Thanh\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi600\vnr9.pk> <C:
-\Users\Hoang Thanh\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi600\vnr12.
-pk> <C:\Users\Hoang Thanh\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi700
-\vnr12.pk> <C:\Users\Hoang Thanh\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr
-/dpi1000\vnbx12.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex
-10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/P
-rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
-Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on thesis.pdf (61 pages, 2340070 bytes).
+ 94i,19n,94p,1350b,2549s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\HoangThanh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
+\tcrm1200.pk><C:/Users/HoangThanh/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb><C:/Users/HoangThanh/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/HoangThanh/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/HoangThanh/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Ho
+angThanh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><C:/Users/HoangThanh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr12.pfb><C:/Users/HoangThanh/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><C:/Users/HoangThanh/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/HoangThanh/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/HoangThanh/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/HoangThanh/
+AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/HoangTh
+anh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/Hoa
+ngThanh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr9.pfb><C:/Users/
+HoangThanh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb><C:/U
+sers/HoangThanh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb>
+<C:/Users/HoangThanh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12
+.pfb>
+Output written on thesis.pdf (61 pages, 2149126 bytes).
 PDF statistics:
- 1974 PDF objects out of 2073 (max. 8388607)
- 463 named destinations out of 1000 (max. 500000)
+ 1121 PDF objects out of 1200 (max. 8388607)
+ 464 named destinations out of 1000 (max. 500000)
  454 words of extra memory for PDF output out of 10000 (max. 10000000)
 
