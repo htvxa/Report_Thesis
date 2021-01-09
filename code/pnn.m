@@ -1,0 +1,19 @@
+datafull = readtable('datafull40000_500.csv');
+datafull=table2array(datafull);
+data = datafull(:,2:end);
+target = datafull(:,1);
+target=target'+1; 
+data=data';
+notrain=0.8*size(data,2);
+pos=randperm(size(data,2));
+dtrain=data(:,pos(1:notrain));
+dtest = data (:,pos(notrain+1:end));
+ttrain = target(:,pos(1:notrain));
+ttest = target (:,pos(notrain+1:end));
+ttrainc = ind2vec(ttrain);
+net = newpnn(dtrain,ttrainc,0.01);
+Y = sim(net,dtest);
+ttestc = vec2ind(Y);
+er = ttestc - ttest;
+so_er = length(find(er~=0));
+ber=so_er/length(ttestc)

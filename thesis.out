@@ -1,0 +1,30 @@
+\BOOKMARK [0][-]{chapter.1}{Gii thiu}{}% 1
+\BOOKMARK [1][-]{section.1.1}{\320t vn }{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Pham vi v\340 phng ph\341p nghi\352n cu}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{C\341c \363ng g\363p cua lun van}{chapter.1}% 4
+\BOOKMARK [0][-]{chapter.2}{C s l\375 thuyt}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Line coding}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.1.1}{None return to Zero}{section.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.1.2}{Return to Zero \(RZ\)}{section.2.1}% 8
+\BOOKMARK [1][-]{section.2.2}{H thng MIMO-VLC}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.1}{Tng quan v VLC}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.2}{Ph\342n loai k\352nh truyn}{section.2.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Neural Network}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.3.1}{Mang thn kinh hoc}{section.2.3}% 13
+\BOOKMARK [2][-]{subsection.2.3.2}{Mang thn kinh nh\342n tao}{section.2.3}% 14
+\BOOKMARK [2][-]{subsection.2.3.3}{Probabilistic neural network \(PNN\)}{section.2.3}% 15
+\BOOKMARK [1][-]{section.2.4}{Kt lun chng}{chapter.2}% 16
+\BOOKMARK [0][-]{chapter.3}{Kt qua nghi\352n cu}{}% 17
+\BOOKMARK [1][-]{section.3.1}{Phng ph\341p tip cn}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.1.1}{S \040khi h thng}{section.3.1}% 19
+\BOOKMARK [2][-]{subsection.3.1.2}{Th\355 nghim 1}{section.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.1.3}{Th\355 nghim 2}{section.3.1}% 21
+\BOOKMARK [0][-]{chapter.4}{Kt lun}{}% 22
+\BOOKMARK [1][-]{section.4.1}{T\363m tt v\340 kt lun chung}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.2}{Hng ph\341t trin}{chapter.4}% 24
+\BOOKMARK [0][-]{appendix.A}{Code chng tr\354nh}{}% 25
+\BOOKMARK [1][-]{section.A.1}{Code tao t\355n hiu NRZ}{appendix.A}% 26
+\BOOKMARK [1][-]{section.A.2}{Code ly t\355n hiu t oscilloscope}{appendix.A}% 27
+\BOOKMARK [1][-]{section.A.3}{Code tr\355ch t\355n hiu ph\341t theo t\355n hiu thu}{appendix.A}% 28
+\BOOKMARK [1][-]{section.A.4}{Code t\355nh c lng SNR, BER}{appendix.A}% 29
+\BOOKMARK [1][-]{section.A.5}{Code t\355nh BER theo PNN}{appendix.A}% 30

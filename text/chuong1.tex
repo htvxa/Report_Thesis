@@ -1,0 +1,46 @@
+\chapter{Giới thiệu} \label{sec:chuong-1} % câu lệnh này nghĩa là bắt đầu một chương với tên gọi là Giới thiệu, chương này được đánh nhãn là sec:chuong-1 để có thể liên kết đến nếu cần thiết
+
+\section{Đặt vấn đề} \label{sec:chuong-1-datvande}
+ % câu lệnh này nghĩa là bắt đầu mục nhỏ cấp 1 trong chương hiện tại
+Trên thế giới ngày nay, truyền tín hiệu bằng ánh sáng khả kiến \ac{vlc} đang rất được quan tâm bởi các nhà nghiên cứu cũng như kĩ sư bởi tính tiện dụng của nó. Tuy chưa được áp dụng rộng rãi, đại trà như công nghệ này rất có tiềm năng trong tương lai. Hàng trăm bài báo, video bạn có thể kiếm được trên internet nói về chủ đề này.Là những sinh viên chúng em cũng muốn tiếp cận những kiến thức mới, công nghệ mới. Việc khảo sát về hoạt động của hệ thống \ac{vlc} trong phòng thí nghiệm cũng như mô phỏng đã đươc các anh chị khoá trước trình bày khá rỏ ràng, nhưng hệ thống chỉ có 1 đèn và 1 bộ thu. TRong luận văn này,chúng em sẽ làm thí nghiệm về hệ thống VLC sử dụng 2 đèn và 1 bộ thu, mô phòng gần giống với thực tế. Ngoài ra, việc sử dụng mạng nơ-ron nhân tạo để thiết kế bộ cân bằng cho hệ thống VLC cũng được nghiên cứu khá nhiều nên tụi em cũng sử dụng mạng nơ-ron xác suất để khảo sát xem nó có hoạt động tốt trong hệ thống MIMO-VLC không.  
+
+
+
+Câu hỏi nghiên cứu đặt ra của luận văn là:
+\begin{itemize}
+	\item Việc sử mạng nơ-ron xác suất có hiệu quả trong việc làm bộ cân bằng cho hệ thống MIMO-VLC.
+	\item Tốc độ bit bằn bao nhiêu thì mạng nơ-ron xác suất sẽ cho ra tỉ lệ lỗi bit không còn đạt ngưỡng.
+	\item Khoảng cách tối đa là bao nhiêu thì mạng nơ-ron sẽ không còn cân bằng chính xác với điều kiện trong phòng thí nghiệm.  
+	
+\end{itemize}
+
+
+
+
+	Trong chương 2, cơ sở lý thyết về MIMO-VLC, line coding và neural network sẽ được trình bày. 
+	Trong chương 3, các kết quả mô phỏng sẽ được so sánh và phân tích. 
+	Cuối cùng, chương 4 đưa ra kết luận chung.
+
+\section{Phạm vi và phương pháp nghiên cứu}
+
+
+\begin{itemize}
+	\item  Sinh viên thực hiện đo đạc trong phòng thí nghiệm ở trường, các thiết bị trong phòng thí nghiệm do thầy hướng dẫn cung cấp. Do kích thước phòng có hạn nên chúng em chỉ khảo sát ở khoảng cách lớn nhất là 2m.
+	\item  Khảo sát sự thay đổi của tỉ lệ lỗi bit theo tốc độ bit và sự thay đổi của tỉ lệ lỗi bit theo khoảng cách. 
+	\item Tín hiệu thí nghiệm là tín hiệu NRZ được tạo từ code Matlab, sẽ được truyền đi qua hệ thống thực tế.  
+	\item Mạng nơ-ron nhân tạo được sử dụng là mạng nơ-ron xác suất \ac{pnn}, mạng này có sẵn trong Matlab nên rất thuận tiện cho việc khảo sát.
+	
+\end{itemize}
+	
+	
+	
+	
+\section{Các đóng góp của luận văn}
+	
+Luận văn này có các đóng góp như sau:
+
+\begin{itemize}
+	\item Hiện thực hoá bộ cân bằng tín hiệu dùng phương pháp mạng nơ-ron nhân tạo, cụ thể là \ac{pnn} dùng phần mềm Matlab.
+	\item Đưa ra được các số liệu về tỉ lệ lỗi bit sát với lý thuyết. Các số liệu này cũng có thể đem khảo sát ở thực tế.
+	\item So sánh và phân tích \ac{ber} trên các tốc độ bit và khoảng cách.
+\end{itemize}	
