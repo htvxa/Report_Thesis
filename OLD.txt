@@ -1,0 +1,53 @@
+\textbf{a) OLED và mạch lái OLED}
+
+Trong luận văn này, chúng em sử dụng đèn OLED để truyền dữ liệu.
+OLED có cấu trúc mạch tương đương như Hình \ref{fig:OLED1}:
+\begin{center}	
+	\begin{figure} 
+		\begin{center}
+			\includegraphics[width=0.5\textwidth,keepaspectratio]
+			{OLEDstruct.png}
+		\end{center}
+		\caption{a) Cấu trúc OLED và b) mạch tương đương của nó} 
+		\label{fig:OLED1}
+	\end{figure}
+\end{center}
+Mạch tương đương của OLED có đặc điểm như trở kháng Rd mắc nối tiếp với diode, trở kháng rò rỉ RL và điện dung C tương đương như Hình \ref{fig:OLED1}(b). Điện dung tương đương được cho bởi:
+\[
+C = \epsilon \epsilon_{r} \frac{S}{L}
+.\]
+
+Với $\epsilon$ và $\epsilon$r tương ứng là hằng số điện môi của không khí và của chất hữu cơ, L là khoảng cách giữa hai điện cực và S là diện tích cực phát. Trong Hình \ref{fig:OLED1}(b) hằng số thời gian cho đáp ứng điện phát quang OLED là CRd (ZC << RL ở chế độ cao tần). Vì vậy kích thước bảng OLED lớn sẽ cho điện dung lớn, do đó làm chậm thời gian đáp ứng của OLED. OLED trong đề tài có thông số điện áp cấp 6-9Vdc, dòng 250mA và công suất hoạt động 2,5W.
+\begin{center}	
+	\begin{figure} 
+		\begin{center}
+			\includegraphics[width=0.5\textwidth,keepaspectratio]
+			{OLED2.png}
+		\end{center}
+		\caption{OLED thực tế} 
+		\label{fig:OLED2}
+	\end{figure}
+\end{center}
+Khoảng điện áp lái OLED Hình \ref{fig:OLED3}:
+\begin{center}	
+	\begin{figure} 
+		\begin{center}
+			\includegraphics[width=0.5\textwidth,keepaspectratio]
+			{OLED3.png}
+		\end{center}
+		\caption{Khoảng điện áp lái OLED} 
+		\label{fig:OLED3}
+	\end{figure}
+\end{center}
+Điện áp lái OLED phù hợp là trong khoảng tuyến tính từ 7V– 7,5V[10]
+Hình \ref{fig:OLED4} mô tả đáp ứng tần số của 1 OLED sáng trắng. Trong chiếu sáng và trang trí trên thị trường thiết bị phổ biến này là một trong số rất ít OLED được bán. Các phép đo cho thấy OLED này có băng thông điều chế 3dB là khoảng 4,3 kHz.
+\begin{center}	
+	\begin{figure} 
+		\begin{center}
+			\includegraphics[width=0.5\textwidth,keepaspectratio]
+			{OLED4.png}
+		\end{center}
+		\caption{Đáp ứng tần số OLED} 
+		\label{fig:OLED4}
+	\end{figure}
+\end{center}

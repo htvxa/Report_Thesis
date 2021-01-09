@@ -2,11 +2,12 @@
 
 \section{Line coding}
 
-Trong viễn thông, mã đường truyền hay còn đường gọi là điều chế số dải nền là một mã được chọn để sử
+Trong viễn thông, mã đường truyền hay còn được gọi là điều chế số dải nền là một mã được chọn để sử
 dụng cho việc truyền nhận của tín hiệu trong hệ thống, mã đường truyền thường được sử dụng trong truyền thông
 tin số. Hay nói cách khác, nó dùng để ánh xạ chuỗi dữ liệu của chúng ta thành một dạng tín hiệu mà có thể truyền
 nhận được.
 
+\vspace{\baselineskip}
 Mã đường truyền biểu diễn tín hiệu số (chuỗi nhị phân) được truyền đi, bằng một dạng sóng được đặc trưng
 bởi một đặc tính nào đó của kênh truyền vật lý, hoặc thiết bị thu như là điện áp, dòng điện, photon. Có ba loại chính
 trong mã hóa đường truyền, đó là Unipolar, Bi-Polar, Polar.
@@ -57,6 +58,7 @@ mã manchester. Có ba loại mã hóa NRZ: bi-polar, polar, unipolar.
 	được đưa vào để tránh sự trượt bit. Với một tốc độ bit nhất định, \ac{nrz} chỉ cần một nửa băng thông dải nền so với
 	mã manchester. Có ba loại mã hóa NRZ: bi-polar, polar, unipolar.
 	
+	\vspace{\baselineskip}
 	Trong NRZ đơn cực (Unipolar NRZ), bit 1 được đại diện bởi mức điện áp DC trên đường truyền, trong khi đó bit 0 là không
 	có điện áp, hay còn gọi là mức điện áp 0V hoặc là đất. Vì lý do này, mã uni-polar NRZ còn được gọi là mã tắt mở
 	(On-Off keying). Một điểm độc nhất của tín hiệu NRZ đơn cực chính là việc tồn tại mức DC trong quá trình truyền
@@ -356,8 +358,10 @@ băng thông cực lớn để truyền tải dữ liệu, công nghệ truyền
 đó không thể tránh khỏi việc nghiên cứu và đưa ra một công nghệ mới có thể đáp ứng được nhu cầu to lớn đó. Một
 trong những công nghệ đã nhận được được sự quan tâm mạnh mẽ là truyền thông không dây quang \ac{owc}.
 
+\vspace{\baselineskip}
 \ac{owc} là ứng viên tiềm năng cho truyền dẫn không dây trong nhà (indoor). Kỹ thuật này sử dụng ánh sáng để truyền dẫn thông tin thay cho sóng điện tử (vốn đã hạn chế về băng thông). Do đó ánh sáng không thể xuyên qua vật thể nên sẽ không dây can nhiễu với các hệ thống khác và mang lại tính bảo mật cao. Hệ thống \ac{owc} có các ưu điểm như thiết lập nhanh, tốc độ truyền nhanh hơn so với các công nghệ truyền thông không dây hiện nay như Bluetooth, Wifi. Hơn nữa, việc sử dụng những linh kiện đơn giản với giá thành thấp như sử dụng \ac{oled} ở phía phát và photodetector ở phía thu, khiến cho việc sử dụng vào thực tế sẽ dễ dàng hơn. Với sự phát triển của công nghệ vật liệu, đặc biệt là sự phát triển không ngừng của \ac{oled} đã hướng sự quan tâm về việc nghiên cứu cũng như ứng dụng công nghệ truyền thông không dây sử dụng ánh sáng khả kiến \ac{vlc}. Đây được xem là một giải pháp khả thi cho truyền thông quang không dây trong tương lai \cite{vlc}.
 
+\vspace{\baselineskip}
 Giao tiếp ánh sáng khả kiến (VLC) là một biến thể truyền thông dữ liệu sử dụng ánh sáng nhìn thấy được giữa 400 và 800 THz (780–375 nm). VLC là một tập hợp con của các công nghệ truyền thông không dây quang học.
 
 \begin{center}	
@@ -372,6 +376,7 @@ Giao tiếp ánh sáng khả kiến (VLC) là một biến thể truyền thông
 
 Công nghệ này sử dụng đèn huỳnh quang (đèn thông thường, không phải thiết bị liên lạc đặc biệt) để truyền tín hiệu ở tốc độ 10 kbit/s hoặc đèn LED lên đến 500 Mbit/s trong khoảng cách ngắn. 
 
+\vspace{\baselineskip}
 VLC có thể được sử dụng như một phương tiện truyền thông cho điện toán phổ biến, vì các thiết bị mang ánh sáng (như đèn trong nhà / ngoài trời, TV, biển báo giao thông, màn hình thương mại và đèn pha / đèn hậu xe hơi) được sử dụng ở mọi nơi. Sử dụng ánh sáng có thể nhìn thấy được cũng ít nguy hiểm hơn đối với các ứng dụng công suất cao vì con người có thể cảm nhận được nó và hành động để bảo vệ mắt khỏi bị hư hại \cite{askk}.
 
 \begin{center}	
@@ -404,6 +409,111 @@ với đường truyền không trực tiếp, các thiết bị di động dễ
 		
 	\end{figure}
 \end{center}		
+
+\subsubsection{Suy hao (Pathloss)}
+
+Kênh truyền đơn giản nhất là kênh truyền không gian tự do \ac{los}, trong mô hình này ta không
+xét đến bất kỳ vật thể nào ở giữa hai phía phát và thu. Trong trường hợp đơn giản này, tín hiệu phát bị suy hao do
+năng lượng trải đều xung quanh an ten phát. Đối với mô hình này, công suất nhận được là:
+
+\begin{equation}
+	P_T=P_t[\dfrac{\sqrt{G_L} \lambda}{4 \pi d}]^2
+	\label{reg:suyhao}
+\end{equation}
+
+
+Trong đó, $P_t$ là công suất phát, $G_L$ là tích biểu đồ bức xạ trường của anten phát và thu, $\lambda$ là bước sóng và d
+là khoảng cách giữa hai phía. Theo lý thuyết, công suất suy giảm tỉ lệ với bình phương khoảng cách, nhưng trong
+thực tế, công suất suy giảm rất nhanh, thông thường là lũy thừa bậc 3 hoặc 4 so với khoảng cách. Sự tồn tại của
+mặt đất ở trên kênh truyền, đóng vai trò là mặt phản xạ của các sóng tới. Những sóng phản xạ này thường ngược
+pha so với sóng tới, và có thể làm giảm công suất nhận được. Xét thêm sự ảnh hưởng của mặt đất, suy hao kênh
+truyền có thể được tính như sau:
+
+\begin{equation}
+	P_T=P_t \dfrac{G_t G_T h_t^2 h_r^2}{d^4}
+\end{equation}
+
+Ở đây, $h_t$ và $h_r$ là chiều cao của anten phát và anten thu. Công thức trên khác với \eqref{reg:suyhao}  ở một số
+điểm sau, có sự ảnh hưởng của chiều cao anten, không xét đến bước sóng, và ảnh hưởng của khoảng cách d là lũy
+thừa bậc 4. Thông thường, công thức mang tính thực tiễn kinh nghiệm cao hơn, được sử dụng để tính toán suy hao
+kênh truyền là:
+
+\begin{equation}
+	P_T=P_t P_0 [\dfrac{d_0}{d}]^\alpha
+\end{equation}
+	
+	Trong đó, $P_0$ là công suất tại vị trí mẫu $d_0$, và $\alpha$ là hệ số suy hao kênh truyền. Từ công thức trên, suy hao
+	kênh truyền theo mô hình logarit được tính như sau:
+	
+	\begin{equation}
+		PL(d)dB=\hat{PL}(d_0)+10 \alpha log(\dfrac{d}{d_0})
+	\end{equation}
+Trong đó, $\hat{PL}(d_0)$ là suy hao trung bình theo dB tại khoảng cách $d_0$.
+
+\subsubsection{Shadowing}
+
+Nếu có sự tồn tại của các vật thể (tòa nhà, cây cối,...) dọc đường đi của tín hiệu, một vài phần của tín hiệu
+phát đi có thể mất mát do sự hấp thụ, phản xạ, tán xạ, nhiễu xạ. Những ảnh hưởng này còn gọi là shadowing. Như \ref{fig:shadowing}
+được mô tả trong , vật thể ở giữa đã chắn đường đi của tín hiệu từ phía phát đến phía thu.
+
+\begin{center}	
+	\begin{figure} [ht]
+		\begin{center}
+			\includegraphics[width=0.75\textwidth,keepaspectratio]
+			{shadowing.png}
+		\end{center}
+		\caption{Mô hình kênh truyền chịu sự ảnh hưởng của shadowing } 
+		\label{fig:shadowing}
+	\end{figure}
+\end{center}
+
+Suy hao kênh truyền shadowing:
+
+\begin{equation}
+	PL(d)dB=\hat{PL}(d_0)+10 \alpha log(\dfrac{d}{d_0}) + \chi
+\end{equation}
+
+Ở đây, $\chi$ là biến phân bố ngẫu nhiên chuẩn hóa với độ lệch chuẩn $\sigma$, $\chi$ đại diện cho sự ảnh hưởng của
+shadowing. Do kết quả của hiện tượng này, nên công suất thu được tại những điểm có cùng khoảng cách đến anten
+phát có thể khác nhau, và có phân bố logarit chuẩn hóa.
+
+\subsubsection{Hiện tượng đa đưởng (multipath)}
+
+Những vật thể nằm trên đường đi của tín hiệu sẽ đóng vai trò là mặt phản xạ tín hiệu, một số các tín hiệu
+phản xạ cũng được nhận tại phía thu. Bởi vì mỗi tín hiệu này đi trên những con đường khác nhau, chúng sẽ có biên
+độ và pha khác nhau như \ref{fig:multipath}.
+
+\begin{center}	
+	\begin{figure} [ht]
+		\begin{center}
+			\includegraphics[width=0.75\textwidth,keepaspectratio]
+			{multipath.png}
+		\end{center}
+		\caption{Mô hình kênh truyền chịu sự ảnh hưởng của multipath } 
+		\label{fig:multipath}
+	\end{figure}
+\end{center}
+
+Phụ thuộc vào pha của chúng khi tới được phía phát, những tín hiệu này có thể làm giảm hoặc tăng công
+suất thu được. Chỉ một thay đổi nhỏ về vị trí cũng có thể khiến cho biên độ và pha của tín hiệu tới vô cùng khác
+nhau. Ba thành phần của đáp ứng kênh truyền được mô tả khá rõ trong \ref{fig:tong}.
+
+\begin{center}	
+	\begin{figure} [ht]
+		\begin{center}
+			\includegraphics[width=0.75\textwidth,keepaspectratio]
+			{tong.png}
+		\end{center}
+		\caption{Suy hao, shadowing và hiệu ứng đa đường } 
+		\label{fig:tong}
+	\end{figure}
+\end{center}
+
+
+
+
+
+
 	
 \subsubsection{Các tham số hiệu năng của kênh truyền}
 
@@ -445,6 +555,7 @@ Theo định lý Shannon, dung năng kênh C ( tốc độ truyền dữ liệu 
 
 Mức ngưỡng BER của hệ thống là 0.0038.
 
+\vspace{\baselineskip}
 Những kiến thức trên là từ hệ thống thông tin vô tuyến nói chung, do đó hệ thống VLC có đôi chút khác
 biệt. Do hệ thống VLC sử dụng chủ yếu ở môi trường trong nhà, kênh truyền ít biến động, nên trong bản báo cáo
 này ta xét mô hình LOS cho hệ thống. \eqref{eq:los} mô tả suy hao kênh truyền trong kịch bản LOS-VLC
@@ -524,6 +635,7 @@ hệ thống MIMO-VLC có thể được mô tả bằng một mô hình toán h
 
 Trong đó X là vectơ của tín hiệu truyền, Y là vectơ tín hiệu nhận, H là ma trận của kênh truyền chuẩn.
 
+\vspace{\baselineskip}
 Ma trận này được hình thành bởi độ truyền giữa
 mỗi máy phát và mỗi máy thu, và có thể được ước tính
 bằng độ lợi giữa máy thu thứ i và máy phát thứ j. Bằng cách nghịch đảo ma trận H, ta có thể phục hồi lại tín hiệu ban đầu, theo công thức:
@@ -567,11 +679,13 @@ Hiển nhiên,ma trận H có thể không phải là ma trận 1 chiều và đ
 
 Mỗi neural nhận xung thần kinh (thông tin) truyền từ neural đứng trước nó, truyền dọc theo Axon và truyền ra neural sau thông qua Synapse. Xung động thần kinh truyền từ neural này sang neural khác trong mạng thần kinh tạo nên mọi chức năng thần kinh của não bộ.
 
+\vspace{\baselineskip}
 Con người với ước muốn nhân tạo hóa mạng thần kinh sinh học nên đã tìm cách mô phỏng cách não bộ hoạt động bằng máy tính và các thuật toán để phục vụ nhiều mục đích trong đời sống.
 
 \subsection{Mạng thần kinh nhân tạo}
-Mạng thần kinh nhân tạo (Artificial neural network – ANN) là mô hình xử lý thông tin được mô phỏng dựa trên hoạt động của hệ thống thần kinh sinh vật, bao gồm số lượng lớn các neural được gắn kết thông qua các trọng số liên kết để xử lý thông tin. ANN giống như não bộ con người, được học bởi kinh nghiệm (thông qua huấn luyện), có khả năng lưu giữ những kinh nghiệm hiểu biết (tri thức) và sử dụng những tri thức đó trong việc dự đoán những dữ liệu chưa biết. 
-
+Mạng thần kinh nhân tạo (Artificial neural network – ANN) là mô hình xử lý thông tin được mô phỏng dựa trên hoạt động của hệ thống thần kinh sinh vật, bao gồm số lượng lớn các neural được gắn kết thông qua các trọng số liên kết để xử lý thông tin. ANN giống như não bộ con người, được học bởi kinh nghiệm (thông qua huấn luyện), có khả năng lưu giữ những kinh nghiệm hiểu biết (tri thức) và sử dụng những tri thức đó trong việc dự đoán những dữ liệu chưa biết.
+ 
+\vspace{\baselineskip}
 Người ta phân loại mạng neural dựa vào các kiểu kết nối của các neural và dựa vào số lớp neural trong mạng:
 
 \begin{itemize}
@@ -628,16 +742,20 @@ Mạng nơ-ron xác suất \ac{pnn} là một mạng nơ-ron truyền thẳng (c
  
 PNN có 4 lớp như sau: Input layer (Lớp đầu vào), Pattern layer (Lớp mẫu), Summation layer (Lớp tổng hợp), Output layer (Lớp đầu ra).
 
+\vspace{\baselineskip}
 a)	Input layer (Lớp đầu vào):
 
 Mỗi neural trong lớp này đại diện cho một biến cần dự đoán x1, x2, …, xn, nó nhận giá trị của biến dự đoán sau đó cung cấp cho từng neural trong lớp ẩn.
 
+\vspace{\baselineskip}
 b)	Pattern layer (Lớp mẫu):
 
-Số neural trong lớp này ứng với số trường hợp trong tập dữ liệu huấn luyện – các vector đặc trưng và nhãn của nó (giả sử có G nhãn trong PNN). 
-
+Số neural trong lớp này ứng với số trường hợp trong tập dữ liệu huấn luyện – các vector đặc trưng và nhãn của nó (giả sử có G nhãn trong PNN).
+ 
+\vspace{\baselineskip}
 Mỗi nút trong lớp này chứa tương ứng với một hàm Gauss cho mỗi vector đặc trưng mẫu. Hàm Gauss này tập trung vào vector đặc trưng liên kết của nó.
 
+\vspace{\baselineskip}
 Đầu ra của mỗi nút được tính theo công thức sau:
 
 \begin{equation}
@@ -659,10 +777,12 @@ Trong đó:
 	
 \end{itemize}
 
+\vspace{\baselineskip}
 c)	Summation layer (Lớp tổng hợp): 
 
 Ta có G neural trong lớp này ứng với số lượng nhãn trong mạng, mỗi nút cung cấp giá trị cho lớp đầu ra $y_g$,  bằng cách tính tổng các giá trị đầu vào nhận được từ các neural lớp mẫu của từng nhãn tương ứng. Các giá trị $y_g$ này ta gọi là trọng số của phiếu bầu cho nhãn mục tiêu ứng với $x_i$.
 
+\vspace{\baselineskip}
 d)	Output layer (Lớp đầu ra): 
 
 Nhiệm vụ lớp này so sánh các phiếu bầu có trọng số được nhận từ lớp tổng hợp, nhãn có trọng số phiếu bầu lớn nhất được dùng để dự đoán loại mục tiêu cho đầu vào $x_i$.
@@ -712,6 +832,7 @@ $\hat{p}$  không sai lệch khi $M \rightarrow \infty$, nếu $h=h(M)$
 
 Trong thực tế, chỉ xảy ra với những số hữu hạn. Lựa chọn cho thông số h là cực kì quan trọng, vì thế được khuyến khích bắt đầu từ ước lượng ban đầu của h rồi sau đó thay đổi từ từ để giảm thiểu sai số phân lớp sai. 1 cách lý thuyết, số M lớn là cần thiết. Nhưng trong thực tế, 1 số lượng lớn các điểm làm tăng sự phức tạp tính toán 1 cách không cần thiết.
 
+\vspace{\baselineskip}
 Sự lựa chọn thông thường của hàm $K(m)$ là
 
 \begin{equation}
@@ -731,8 +852,9 @@ K(m)=
 $$
 
 \subsubsection{Thuật toán Bayes cho bài toán phân lớp}
-1 quy chuẩn được chấp nhận cho các quy tắc lựa chọn hoặc chiến lược được dùng để giải bài toán phân lớp là chúng làm theo cách mà giảm thiểu "rủi ro mong đợi".Chiến lược như vậy gọi là "chiến lược Bayes và có thể được ứng dụng trong các vấn đề chứa nhiều thể loại. 
-
+1 quy chuẩn được chấp nhận cho các quy tắc lựa chọn hoặc chiến lược được dùng để giải bài toán phân lớp là chúng làm theo cách mà giảm thiểu "rủi ro mong đợi".Chiến lược như vậy gọi là "chiến lược Bayes và có thể được ứng dụng trong các vấn đề chứa nhiều thể loại.
+ 
+\vspace{\baselineskip}
 Xem xét 1 tình huống 2 loại trong đó trang thái của $\theta$ được biết là $\theta_A$ hoặc $\theta_B$. Nếu như bài toán mong muốn xác định $\theta = \theta_A$ hoặc $\theta = \theta_B$ dựa trên 1 tập các chỉ số đo được biểu hiện bởi 1 vector có $\rho$ chiều $X^t = [X_1..X_2..X_3]$,quy tắc Bayes trở thành \cite{bay}
 
 \begin{align}
@@ -744,6 +866,7 @@ Xem xét 1 tình huống 2 loại trong đó trang thái của $\theta$ được
 
 Trong đó $f_A (X)$ và $f_B (X)$ là các hàm mật độ xác suất \ac{pdf} cho loại A và loại B. $I_A$ là hàm mất mát với quyết định $d(X) = \theta_B$ khi $\theta = \theta_A$; $I_B$ là hàm mất mát với quyết định $d(X)= \theta_A$ khi $\theta = \theta_B$ (Sự mất mát liên quan đến quyết định đúng sẽ bằng 0). $h_A$ là xác suất giả thuyết của dữ liệu quan sát thuộc loại A và $h_B=1-h_A$ là xác suất giả thiết khi $\theta = \theta_B$.
 
+\vspace{\baselineskip}
 Do đó đường biên giới giữa các vùng trong đó quyết định Bayes $d(X) = \theta_A$ và vùng trong đó $d(X) = \theta_B$ được chi bởi 
 
 \begin{equation}
@@ -759,6 +882,7 @@ Trong đó
 
 Thông thường, 2 loại quyết định được cho bởi \eqref{eq:aa} có thể phức tập tuỳ ý, khi không có 1 giới hạn cho mật độ ngoại trừ các điều kiện mà hàm mật độ xác suất phải tuân theo, ví dụ như chúng có thể không âm, tích hợp và các tích phân của chúng trong mọi không gian đều bằng nhau. Các quy luật quyết định tương tự có thể được dùng trong mọi bài toán nhiều loại.
 
+\vspace{\baselineskip}
 Chìa khoá để sử dụng \eqref{eq:aa} là khả năng dự đoán \ac{pdf} dựa trên các tập training. Thông thường xác suất giả thuyết có thể được biết hay được dự đoán chính xác và hàm mất mát yêu cầu sự đánh giá chủ quan. Tuy nhiên, nếu mật độ xác suất của mẫu thuộc loại bị phân chia là không biết, và tất cả được cho bởi 1 tập training mẫu, khi đó mẫu này chỉ cung cấp bằng chứng cho mật độ xác suất quan trọng chưa biết.
 	
 	
@@ -767,6 +891,7 @@ Chìa khoá để sử dụng \eqref{eq:aa} là khả năng dự đoán \ac{pdf}
 \subsubsection{Ưu điểm và nhược điểm của PNN}
 Mạng nơ-ron xác suất có nhiều ưu và nhược điểm so với mạng nơ-ron nhiều lớp truyền thống
 
+\vspace{\baselineskip}
 \textbf{a) Ưu điểm:}
 
 \begin{itemize}
@@ -840,8 +965,10 @@ Sau khi đi qua hệ thống thực tế, tín hiệu sẽ bị suy hao + méo d
 
 Trong đề tài, tín hiệu NRZ được sử dụng 2 mức 0 và 1 được sử dụng vì ít tiêu tốn băng thông với lại đơn giản, dễ dàng quan sát khi có lỗi xuất hiện khi chuỗi tín hiệu phát đi là 1 chuỗi dài.
 
-Tín hiệu thu được từ hệ thống thực tế sẽ bị nhiễu phi tuyến + đường truyền không ổn định vì thế phương pháp mạng nơ-ron nhân tạo được sử dụng với các lý do kể trên. 
-
+\vspace{\baselineskip}
+Tín hiệu thu được từ hệ thống thực tế sẽ bị nhiễu phi tuyến + đường truyền không ổn định vì thế phương pháp mạng nơ-ron nhân tạo được sử dụng với các lý do kể trên.
+ 
+\vspace{\baselineskip}
 Ở chương kết tiếp ,các thông số cụ thể của hệ thống MIMO-VLC cũng như các bước thực hiện thí nghiệm, kết quả và đánh giá phương pháp neural network sẽ được trình bày.
 
 

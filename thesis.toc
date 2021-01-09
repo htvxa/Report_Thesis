@@ -6,40 +6,45 @@
 \contentsline {chapter}{\numberline {2}Cơ sở lý thuyết}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Line coding}{3}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}None return to Zero}{4}{subsection.2.1.1}%
-\contentsline {subsubsection}{Uni-polar NRZ}{4}{subsubsection*.9}%
-\contentsline {subsubsection}{Polar NRZ}{5}{subsubsection*.10}%
-\contentsline {subsubsection}{Bi-polar NRZ}{6}{subsubsection*.11}%
-\contentsline {subsection}{\numberline {2.1.2}Return to Zero (RZ)}{7}{subsection.2.1.2}%
-\contentsline {subsubsection}{Uni-polar RZ}{7}{subsubsection*.12}%
-\contentsline {subsubsection}{Polar RZ}{8}{subsubsection*.13}%
-\contentsline {subsubsection}{Bi-polar RZ}{9}{subsubsection*.14}%
+\contentsline {subsubsection}{Uni-polar NRZ}{4}{subsubsection*.10}%
+\contentsline {subsubsection}{Polar NRZ}{5}{subsubsection*.13}%
+\contentsline {subsubsection}{Bi-polar NRZ}{6}{subsubsection*.16}%
+\contentsline {subsection}{\numberline {2.1.2}Return to Zero (RZ)}{6}{subsection.2.1.2}%
+\contentsline {subsubsection}{Uni-polar RZ}{7}{subsubsection*.19}%
+\contentsline {subsubsection}{Polar RZ}{8}{subsubsection*.22}%
+\contentsline {subsubsection}{Bi-polar RZ}{8}{subsubsection*.25}%
 \contentsline {section}{\numberline {2.2}Hệ thống MIMO-VLC}{9}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Tổng quan về VLC}{9}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Phân loại kênh truyền}{11}{subsection.2.2.2}%
-\contentsline {subsubsection}{Các tham số hiệu năng của kênh truyền}{12}{subsubsection*.15}%
-\contentsline {subsubsection}{Hệ thống MIMO quang không dây}{13}{subsubsection*.16}%
-\contentsline {section}{\numberline {2.3}Neural Network}{14}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Mạng thần kinh học}{14}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Mạng thần kinh nhân tạo}{15}{subsection.2.3.2}%
-\contentsline {subsubsection}{Kiến thức cơ bản của mạng thần kinh nhân tạo}{16}{subsubsection*.17}%
-\contentsline {subsection}{\numberline {2.3.3}Probabilistic neural network (PNN)}{16}{subsection.2.3.3}%
-\contentsline {subsubsection}{Kiến thức cơ bản về PNN}{16}{subsubsection*.18}%
-\contentsline {subsubsection}{Cửa sổ Parzen}{18}{subsubsection*.19}%
-\contentsline {subsubsection}{Thuật toán Bayes cho bài toán phân lớp}{19}{subsubsection*.20}%
-\contentsline {subsubsection}{Ưu điểm và nhược điểm của PNN}{20}{subsubsection*.21}%
-\contentsline {subsubsection}{Cách ứng dụng mạng nơ-ron xác suất vào đề tài luận văn}{20}{subsubsection*.22}%
-\contentsline {section}{\numberline {2.4}Kết luận chương}{21}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Kết quả nghiên cứu}{23}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Phương pháp tiếp cận}{23}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Sơ đồ khối hệ thống}{23}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Thí nghiệm 1}{24}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Thí nghiệm 2}{25}{subsection.3.1.3}%
-\contentsline {chapter}{\numberline {4}Kết luận}{27}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Tóm tắt và kết luận chung}{27}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Hướng phát triển}{27}{section.4.2}%
-\contentsline {chapter}{\numberline {A}Code chương trình}{31}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Code tạo tín hiệu NRZ}{31}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Code lấy tín hiệu từ oscilloscope}{35}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Code trích tín hiệu phát theo tín hiệu thu}{36}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Code tính ước lượng SNR, BER}{37}{section.A.4}%
-\contentsline {section}{\numberline {A.5}Code tính BER theo PNN}{38}{section.A.5}%
+\contentsline {subsubsection}{Suy hao (Pathloss)}{12}{subsubsection*.32}%
+\contentsline {subsubsection}{Shadowing}{12}{subsubsection*.33}%
+\contentsline {subsubsection}{Hiện tượng đa đưởng (multipath)}{13}{subsubsection*.35}%
+\contentsline {subsubsection}{Các tham số hiệu năng của kênh truyền}{13}{subsubsection*.38}%
+\contentsline {subsubsection}{Hệ thống MIMO quang không dây}{15}{subsubsection*.41}%
+\contentsline {section}{\numberline {2.3}Neural Network}{17}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Mạng thần kinh học}{17}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Mạng thần kinh nhân tạo}{18}{subsection.2.3.2}%
+\contentsline {subsubsection}{Kiến thức cơ bản của mạng thần kinh nhân tạo}{18}{subsubsection*.44}%
+\contentsline {subsection}{\numberline {2.3.3}Probabilistic neural network (PNN)}{19}{subsection.2.3.3}%
+\contentsline {subsubsection}{Kiến thức cơ bản về PNN}{19}{subsubsection*.47}%
+\contentsline {subsubsection}{Cửa sổ Parzen}{21}{subsubsection*.49}%
+\contentsline {subsubsection}{Thuật toán Bayes cho bài toán phân lớp}{22}{subsubsection*.50}%
+\contentsline {subsubsection}{Ưu điểm và nhược điểm của PNN}{22}{subsubsection*.51}%
+\contentsline {subsubsection}{Cách ứng dụng mạng nơ-ron xác suất vào đề tài luận văn}{23}{subsubsection*.52}%
+\contentsline {section}{\numberline {2.4}Kết luận chương}{24}{section.2.4}%
+\contentsline {chapter}{\numberline {3}KẾT QUẢ NGHIÊN CỨU}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Phương pháp tiếp cận}{25}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Hệ thống VLC}{25}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Dữ liệu}{26}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Ứng dụng mạng nơ-ron xác suất}{27}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Kết quả và phân tích}{28}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Khảo sát sự ảnh hưởng của tốc độ bitrate}{28}{subsection.3.2.1}%
+\contentsline {chapter}{\numberline {4}Kết luận}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Tóm tắt và kết luận chung}{31}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Hướng phát triển}{31}{section.4.2}%
+\contentsline {chapter}{\numberline {A}Code chương trình}{35}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Code tạo tín hiệu NRZ}{35}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Code lấy tín hiệu từ oscilloscope}{38}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Code trích tín hiệu phát theo tín hiệu thu}{39}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Code tính ước lượng SNR, BER}{40}{section.A.4}%
+\contentsline {section}{\numberline {A.5}Code tính BER theo PNN}{40}{section.A.5}%

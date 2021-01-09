@@ -1,10 +1,10 @@
 \documentclass[12pt,a4paper, twoside]{book}
-
+%%
 \newcommand\studenta{Nguyễn Tất Đạt}
 \newcommand\mssva{1610658}
 \newcommand\studentb{Võ Hoàng Thành}
 \newcommand\mssvb{1613206}
-\newcommand\thesisname{Áp dụng phương pháp mạng nơ-ron nhân tạo để thiết kế bộ cân bằng hệ thống MIMO-VLC}
+\newcommand\thesisname{Ứng dụng phương pháp mạng nơ-ron nhân tạo để thiết kế bộ cân bằng hệ thống MIMO-VLC}
 \newcommand\reportname{Luận văn tốt nghiệp đại học}
 \newcommand\supervisor{TS. Phạm Quang Thái}
 \newcommand\ngaygiaonhiemvu{24-9-2020}
@@ -18,12 +18,53 @@
 
 
 \usepackage[utf8]{vietnam}
+\usepackage[utf8]{inputenc}
 \usepackage{titlesec} 
 \usepackage{geometry}
 \usepackage{amsmath}
 \usepackage{graphicx}
 \graphicspath{{./figure/}}
 \usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{textcomp}
+\usepackage{amsmath, amsfonts, amssymb}
+\usepackage{caption}
+\usepackage{geometry}
+\usepackage{titlesec} 
+\usepackage{fancyhdr}
+\usepackage{tikz}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{acro}
+\usepackage{cite}
+\usepackage{hyperref}
+\usepackage{multirow}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\ttfamily\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+\lstset{style=mystyle}
 
 \hypersetup{
 	colorlinks,
@@ -33,13 +74,11 @@
 	urlcolor=black
 }
 \newtheorem{exam}{Ví dụ}[section]
-\usepackage{acro}
-\usepackage{cite}
+
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
-\usepackage{listings}
-\usepackage{fancyhdr}
-\usepackage{tikz}
+
+
 	\usetikzlibrary{shapes.geometric, arrows}
 	\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=0.75cm,text centered, draw=black]
 	\tikzstyle{io} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=2.5cm, minimum height=0.75cm, text centered, draw=black, text width=2cm]
@@ -311,10 +350,11 @@
 	Probabilistic Neural Network by Wikipedia,
 	\\\texttt{ https://en.wikipedia.org/wiki/Probabilistic-neural-network }
 	
-	\bibitem{2x2} 
-	M.Kowalczyk.
-	\textit{2x2 MIMO VLC Optical Transmission System Based on LEDs in a Double Role}.
-	Warsaw University of Technology, Institute of Telecommunications, Warsaw, Poland.
+	\bibitem{eyediagram} 
+	Understanding Data Eye Diagram Methodology for Analyzing High Speed Digital Signals,
+	\\\texttt{ https://www.onsemi.com/pub/Collateral/AND9075-D.PDF }
+	
+
 	
 \end{thebibliography}
 \appendix

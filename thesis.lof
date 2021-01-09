@@ -1,37 +1,42 @@
 \acswitchoff 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Các loại mã đường truyền}}{3}{figure.2.1}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Dạng tín hiệu mã Uni-Polar NRZ }}{5}{figure.2.2}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Phổ công suất của tín hiệu NRZ đơn cực }}{5}{figure.2.3}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Dạng tín hiệu mã NRZ }}{6}{figure.2.4}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Phổ của tín hiệu Polar-NRZ }}{6}{figure.2.5}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Dạng tín hiệu Bi-polar NRZ }}{7}{figure.2.6}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Dạng phổ của tín hiệu Bi-polar NRZ }}{7}{figure.2.7}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Dạng tín hiệu của Uni-polar RZ }}{7}{figure.2.8}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Dạng phổ của tín hiệu của Uni-polar RZ }}{8}{figure.2.9}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Dạng tín hiệu của Polar RZ }}{8}{figure.2.10}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Dạng phổ của tín hiệu của Polar RZ }}{8}{figure.2.11}%
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Dạng phổ của tín hiệu của Bi-polar RZ }}{9}{figure.2.12}%
-\contentsline {figure}{\numberline {2.13}{\ignorespaces Dạng phổ của tín hiệu của Bi-polar RZ }}{9}{figure.2.13}%
-\contentsline {figure}{\numberline {2.14}{\ignorespaces Biểu đồ tăng trưởng lưu lượng và số lượng thiết bị }}{10}{figure.2.14}%
-\contentsline {figure}{\numberline {2.15}{\ignorespaces Vùng ánh sáng khả kiến được sử dụng cho VLC }}{11}{figure.2.15}%
-\contentsline {figure}{\numberline {2.16}{\ignorespaces Công nghệ VLC trong tương lai }}{11}{figure.2.16}%
-\contentsline {figure}{\numberline {2.17}{\ignorespaces Mô hình kênh truyền trong hệ thống VLC }}{12}{figure.2.17}%
-\contentsline {figure}{\numberline {2.18}{\ignorespaces Kênh truyền hệ thống VLC }}{13}{figure.2.18}%
-\contentsline {figure}{\numberline {2.19}{\ignorespaces Mô hình MIMO trong phòng }}{14}{figure.2.19}%
-\contentsline {figure}{\numberline {2.20}{\ignorespaces Mô hình của hệ thống giao tiếp ánh sáng MIMO }}{15}{figure.2.20}%
-\contentsline {figure}{\numberline {2.21}{\ignorespaces Sơ đồ 1 neural sinh học }}{15}{figure.2.21}%
-\contentsline {figure}{\numberline {2.22}{\ignorespaces Cấu trúc của 1 perceptron }}{16}{figure.2.22}%
-\contentsline {figure}{\numberline {2.23}{\ignorespaces Cấu trúc của 1 mạng ANN }}{17}{figure.2.23}%
-\contentsline {figure}{\numberline {2.24}{\ignorespaces Sơ đồ cấu trúc một PNN}}{17}{figure.2.24}%
-\contentsline {figure}{\numberline {2.25}{\ignorespaces 1 chuỗi gồm 500 bit ngẫu nhiên 0 và 1 được tạo từ code Matlab }}{21}{figure.2.25}%
-\contentsline {figure}{\numberline {2.26}{\ignorespaces Hình ảnh của chuỗi được đưa vào máy phát sóng }}{21}{figure.2.26}%
-\contentsline {figure}{\numberline {2.27}{\ignorespaces Hình ảnh của chuỗi bit thu được }}{22}{figure.2.27}%
-\contentsline {figure}{\numberline {2.28}{\ignorespaces Chuỗi bit thu được gồm 500 symbols và 1 symbols được biễu diễn bởi 3 samples }}{22}{figure.2.28}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Các loại mã đường truyền\relax }}{3}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Dạng tín hiệu mã Uni-Polar NRZ \relax }}{5}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Phổ công suất của tín hiệu NRZ đơn cực \relax }}{5}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Dạng tín hiệu mã NRZ \relax }}{6}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Phổ của tín hiệu Polar-NRZ \relax }}{6}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Dạng tín hiệu Bi-polar NRZ \relax }}{7}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Dạng phổ của tín hiệu Bi-polar NRZ \relax }}{7}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Dạng tín hiệu của Uni-polar RZ \relax }}{7}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Dạng phổ của tín hiệu của Uni-polar RZ \relax }}{8}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Dạng tín hiệu của Polar RZ \relax }}{8}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Dạng phổ của tín hiệu của Polar RZ \relax }}{8}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Dạng phổ của tín hiệu của Bi-polar RZ \relax }}{9}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Dạng phổ của tín hiệu của Bi-polar RZ \relax }}{9}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Biểu đồ tăng trưởng lưu lượng và số lượng thiết bị \relax }}{10}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Vùng ánh sáng khả kiến được sử dụng cho VLC \relax }}{10}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Công nghệ VLC trong tương lai \relax }}{11}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Mô hình kênh truyền trong hệ thống VLC \relax }}{11}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Mô hình kênh truyền chịu sự ảnh hưởng của shadowing \relax }}{13}{figure.caption.34}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Mô hình kênh truyền chịu sự ảnh hưởng của multipath \relax }}{13}{figure.caption.36}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Suy hao, shadowing và hiệu ứng đa đường \relax }}{14}{figure.caption.37}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces Kênh truyền hệ thống VLC \relax }}{15}{figure.caption.39}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces Mô hình MIMO trong phòng \relax }}{16}{figure.caption.40}%
+\contentsline {figure}{\numberline {2.23}{\ignorespaces Mô hình của hệ thống giao tiếp ánh sáng MIMO \relax }}{17}{figure.caption.42}%
+\contentsline {figure}{\numberline {2.24}{\ignorespaces Sơ đồ 1 neural sinh học \relax }}{17}{figure.caption.43}%
+\contentsline {figure}{\numberline {2.25}{\ignorespaces Cấu trúc của 1 perceptron \relax }}{18}{figure.caption.45}%
+\contentsline {figure}{\numberline {2.26}{\ignorespaces Cấu trúc của 1 mạng ANN \relax }}{19}{figure.caption.46}%
+\contentsline {figure}{\numberline {2.27}{\ignorespaces Sơ đồ cấu trúc một PNN\relax }}{20}{figure.caption.48}%
+\contentsline {figure}{\numberline {2.28}{\ignorespaces 1 chuỗi gồm 500 bit ngẫu nhiên 0 và 1 được tạo từ code Matlab \relax }}{23}{figure.caption.53}%
+\contentsline {figure}{\numberline {2.29}{\ignorespaces Hình ảnh của chuỗi được đưa vào máy phát sóng \relax }}{23}{figure.caption.54}%
+\contentsline {figure}{\numberline {2.30}{\ignorespaces Hình ảnh của chuỗi bit thu được \relax }}{24}{figure.caption.55}%
+\contentsline {figure}{\numberline {2.31}{\ignorespaces Chuỗi bit thu được gồm 500 symbols và 1 symbols được biễu diễn bởi 3 samples \relax }}{24}{figure.caption.56}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Sơ đổ khối hệ thống MIMO-VLC}}{23}{figure.3.1}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Đáp ứng tần số của OLED}}{24}{figure.3.2}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Bộ thu quang APD410A của Thorlab}}{25}{figure.3.3}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Hệ thống \ac {vlc} thực tế tại phòng thí nghiệm 209B1\relax }}{25}{figure.caption.57}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Tính độ tương quan giữa chuỗi phát và chuỗi thu\relax }}{26}{figure.caption.59}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Độ tương quan giữa chuỗi phát và chuỗi thu\relax }}{27}{figure.caption.60}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Biểu đồ mắt\relax }}{28}{figure.caption.61}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces So sánh BER giữa ước lượng và PNN\relax }}{29}{figure.caption.62}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
